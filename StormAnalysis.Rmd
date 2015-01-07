@@ -1,0 +1,18 @@
+---
+title: "Storm events: what kind of storm events cause the most harmfull effects with respect to population health and have the greatest economc consequences?"
+author: "Pascal AUREGAN"
+date: "Wednesday, January 07, 2015"
+output: html_document
+---
+
+
+## Synopsis
+
+## Data processing
+
+### Most harmfull with respect to population health due to storm events
+
+### Greatest economic consequences due to storm events
+
+
+## Results
